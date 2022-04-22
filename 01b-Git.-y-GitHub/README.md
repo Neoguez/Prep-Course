@@ -11,6 +11,7 @@
     </td>
   </tr>
 </table>
+<p>Estoy modificando el texto</p>
 
 # Git y GitHub
 
